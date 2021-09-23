@@ -18,10 +18,10 @@ The project contains the following features
 
 
 #The following project uses the following languages
-Html
-css
-javascript
-bootstrap
-jquery
+*Html
+*css
+*javascript
+*bootstrap
+*jquery
 
 

@@ -40,5 +40,5 @@
 >MIT LICENSE &copy; 2021 Skuria
 
 ## Collaborate:
-To contribute to Lighthouse, reach me on `skuria167@gmail.com.
+To contribute to Lighthouse, reach me on `skuria167@gmail.com.'
       

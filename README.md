@@ -1,6 +1,8 @@
 # pizza delivery app
 #This is a pizza delivery project for our class
 
+#Project by samuel kuria
+
 link to the website
 https://sam-mwangi.github.io/pizza-delivery-app/
 
@@ -24,4 +26,6 @@ The project contains the following features
 * Javascript
 * Jquery
 
-
+#For any enquiries or contributions email at
+      skuria167@gmail.com
+      

@@ -37,5 +37,5 @@
 * Jquery
 
 ##For any enquiries or contributions email at
-      skuria167@gmail.com
+     * skuria167@gmail.com
       

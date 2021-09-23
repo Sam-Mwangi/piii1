@@ -10,8 +10,7 @@
  > https://sam-mwangi.github.io/pizza-delivery-app/
 
 ## The project asks the customer to input the following before making an order
- Inputs 
-| :---         |          ---: |
+
  * Pizza Flavour  
  * Pizza size  
  * Pizza crust  

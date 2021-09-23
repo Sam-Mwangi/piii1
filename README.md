@@ -15,5 +15,13 @@ The project contains the following features
     5. The web app uses bootstrap and media queries to make it fully responsive.
     6. The javascript code uses the correct syntax of camel case naming of variables. I.e var myVariable = "stores something"; instead of var my_var = "stores     something", or, var MyVar = "stores something" , or,  var my-Var = "stores something"
     
-    
-    
+
+
+#The following project uses the following languages
+Html
+css
+javascript
+bootstrap
+jquery
+
+

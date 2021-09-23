@@ -1,14 +1,17 @@
 # pizza delivery app
-#This is a pizza delivery project for our class
 
-#Project by samuel kuria
+## About Project:
+>This is a pizza delivery project for our class
 
-link to the website
-https://sam-mwangi.github.io/pizza-delivery-app/
+## Author:
+> Samuel kuria
+
+##link to the website
+ > https://sam-mwangi.github.io/pizza-delivery-app/
 
 
 
-The project contains the following features
+## The project contains the following features
 
     1. The project code uses constructors in Javascript.
     2. The project makes use of prototypes in Javascript.
@@ -19,13 +22,13 @@ The project contains the following features
     
 
 
-#The following project uses the following languages
+##The following project uses the following languages
 * HTML5
 * CSS3
 * Bootstrap
 * Javascript
 * Jquery
 
-#For any enquiries or contributions email at
+##For any enquiries or contributions email at
       skuria167@gmail.com
       
